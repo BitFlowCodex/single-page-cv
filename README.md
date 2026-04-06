@@ -8,4 +8,4 @@ Single-Page CV built with HTML only.
 git clone https://github.com/BitFlowCodex/single-page-cv.git
 ```
 ## Project Reference
-[roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+[roadmap.sh](https://roadmap.sh/projects/single-page-cv)
